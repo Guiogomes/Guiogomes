@@ -1,6 +1,6 @@
 ### Oi eu sou o Guilherme Gomes
 - 👀 Me interesso por JavaScript, React, Node.js, HTML, CSS e games.
-- 🌱 Eu atualmente estou aprendendo Desenvolvimento Web, com foco em React e Node.js
+- 🌱 Eu atualmente estou aprendendo Desenvolvimento Web, na Trybe, desenvolvimento conhecimentos de front-end e back-end, além de muita softskills
 - 📫 contate-me no email: ggs.arquiteto@gmail.com
 
 	<div style="display: inline-block">
