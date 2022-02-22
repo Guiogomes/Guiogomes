@@ -22,6 +22,9 @@
 		<img align="center" alt="Gui-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width:100%;"/>
 		<img align="center" alt="Gui-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" style="max-width:100%;"/>
 		<img  align="center" alt="Gui-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width:100%;"/>
+		<img  align="center" alt="Gui-Linux" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="max-width:100%;"/>
+		<img  align="center" alt="Gui-Linux" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" style="max-width:100%;"/>
+		<img  align="center" alt="Gui-Linux" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%;"/>
 		<img align="right" height="150" width="170" src="https://64.media.tumblr.com/tumblr_mdta50e8IX1rlbw7io1_500.gifv"/>
 	</div>
 	
